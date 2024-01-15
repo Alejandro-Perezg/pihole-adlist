@@ -12,6 +12,7 @@
 0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 afs.googlesyndication.com
 0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 events.hotjar.io
 0.0.0.0 tools.mouseflow.com
 0.0.0.0 cdn-test.mouseflow.com
 0.0.0.0 adm.hotjar.com
